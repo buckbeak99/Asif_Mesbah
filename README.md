@@ -1,21 +1,14 @@
-### Hi there 👋
-
+# Hi There <img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
+I am **Md Mesbah Uddin Waheed**. I am an software engineer.  I used to listen to music a lot.
 
 
 - 🔭 I’m currently studying on Shahjalal University of science and technology
 - 👯 I’m looking to collaborate on ...
-- 💬 Ask me about Competitive programming
 - 😄 Pronouns: He / His
 - - 🌱 I’m currently learning Nodejs and Docker
-- ⚡ Fun fact: My existence.... Our existence !! 
+- ⚡ Fun fact: My existence.... Our existence !!
 
-
-
-
-
-# Hi There <img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
-I am **Md Mesbah Uddin Waheed**. I am an software engineer.  I used to listen to music a lot.
-My primary hobbies are:
+### My primary hobbies are:
 - Reading books
 - Listening to music
 - Programming, Problem Solving.
