@@ -1,5 +1,5 @@
 # Hi There <img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
-I am **Md Mesbah Uddin Waheed**. I am an software engineer.  I used to listen to music a lot.
+I am **Md Mesbah Uddin Waheed**.  I used to listen to music a lot.
 
 
 - 🔭 I’m currently studying on Shahjalal University of science and technology
