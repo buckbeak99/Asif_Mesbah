@@ -22,8 +22,12 @@ I am **Md Mesbah Uddin Waheed**.  I used to listen to music a lot.
 <a href="https://www.facebook.com/asifmesbah.99/">
   <img align="left" alt="Md Mesbah Uddin Waheed | Facebook" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/facebook.svg" />
 </a>
+<a href="https://www.instagram.com/asif_mesbah/">
+ <img align="left" alt="Md Mesbah Uddin Waheed | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
-## ⚙️ Technologies & Tools
+
+### ⚙️ Technologies & Tools
 ![C](https://img.shields.io/badge/c-%3776AB.svg?style=for-the-badge&logo=c&logoColor=white&color=A8B9CC)
 ![C++](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=00599C)
 ![Java](https://img.shields.io/badge/java-%7396.svg?style=for-the-badge&logo=java&logoColor=white&color=007396)
@@ -39,8 +43,8 @@ I am **Md Mesbah Uddin Waheed**.  I used to listen to music a lot.
 ![LARAVEL](https://img.shields.io/badge/laravel-%FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white&color=FF2D20)
 
 ![DOCKER](https://img.shields.io/badge/docker-%FF2D20.svg?style=for-the-badge&logo=docker&logoColor=white&color=FF2D20)
-
-
+![UUBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![SHELL_SCRIPT](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&color=007ACC)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android%20studio&logoColor=white&color=3DDC84)
@@ -50,10 +54,10 @@ I am **Md Mesbah Uddin Waheed**.  I used to listen to music a lot.
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/buckbeak99">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buckbeak99&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buckbeak99&theme=blue-green&hide_langs_below=1" />
 </a>
 <a href="https://github.com/buckbeak99">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=buckbeak99&show_icons=true&theme=light&line_height=27" alt="buckbeak's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=buckbeak99&show_icons=true&theme=blue-green&line_height=27" alt="buckbeak's github stats"/>
 </a>
 
 <img align="center" height="200px" src="https://github-profile-trophy.vercel.app/?username=buckbeak99&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true"/>
