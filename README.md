@@ -1,11 +1,11 @@
 # Hi There <img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
-I am **Md Mesbah Uddin Waheed**.  I used to listen to music a lot.
+I am **Md Mesbah Uddin Waheed**. I am a Researcher and an Engineer. I used to listen to music a lot.
 
 
-- 🔭 I’m currently studying on Shahjalal University of science and technology
-- 👯 I’m looking to collaborate on ...
+- 🔭 I completed my BSc(engg) degree from Shahjalal University of science and technology
+- 👯 I’m looking to collaborate on any blockchain based research and development
+- 👯 Currently I am working on some R&D projects in Blockchain Technology Domain
 - 😄 Pronouns: He / His
-- - 🌱 I’m currently learning Nodejs and Docker
 - ⚡ Fun fact: My existence.... Our existence !!
 
 ### My primary hobbies are:
@@ -39,7 +39,7 @@ I am **Md Mesbah Uddin Waheed**.  I used to listen to music a lot.
 
 ![MySQL](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=F7931E)
-![Node / Express](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node&logoColor=white&color=563D7C)
+![Nodejs](https://img.shields.io/badge/Nodejs-339933.svg?style=for-the-badge&logo=nodejs&logoColor=white&color=563D7C)
 ![LARAVEL](https://img.shields.io/badge/laravel-%FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white&color=FF2D20)
 
 ![DOCKER](https://img.shields.io/badge/docker-%FF2D20.svg?style=for-the-badge&logo=docker&logoColor=white&color=FF2D20)
