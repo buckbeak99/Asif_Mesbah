@@ -1,12 +1,11 @@
 # Hi There <img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
-I am **Md Mesbah Uddin Waheed**. I am a CS graduate. I used to listen to music a lot. Looking for SQA Engineer role in the industry.
-
-
-- 🔭 I completed my BSc(engg) degree from Shahjalal University of science and technology
-- 👯 I’m interested to collaborate on any blockchain based research and development
+I am **Mohammad Mesbah Uddin Waheed**. 
+- 🔭 I completed my BSc(Engg) degree from Shahjalal University of science and technology
+- 👯 I’m interested in collaborating on any blockchain-based research and development
 - 👯 I worked on some R&D projects in Blockchain Technology Domain
 - 😄 Pronouns: He / His
-- ⚡ Fun fact: My existence.... Our existence !!
+- ⚡ Fun fact: My existence... Our existence !!
+
 
 ### My primary hobbies are:
 - Reading books
@@ -25,7 +24,9 @@ I am **Md Mesbah Uddin Waheed**. I am a CS graduate. I used to listen to music a
 <a href="https://www.instagram.com/asif_mesbah/">
  <img align="left" alt="Md Mesbah Uddin Waheed | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
+<a href="https://medium.com/@buckbeak99">
+ <img align="left" alt="Mohammad Mesbah Uddin Waheed | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
 
 ## ⚙️ Technologies & Tools
 ![C](https://img.shields.io/badge/c-%3776AB.svg?style=for-the-badge&logo=c&logoColor=white&color=A8B9CC)
